@@ -1,0 +1,2 @@
+# mnist
+test run : mnist
